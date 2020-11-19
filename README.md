@@ -4,4 +4,4 @@
 
 #Lab 01: Phân tích thiết kế, vẽ biểu đồ tương tác, biểu đồ giao tiếp, biểu đồ lớp phân tích
 
-#Lab 02: Detatil design: Interface design
+#Lab 02: Detail design: Interface design
